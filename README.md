@@ -9,9 +9,12 @@ Vekko Tool
     cd Vekko.py
     
     python3 Veeko.py
-   
-    pip install discord.py
+    ```
+    #install the requirements 
+    ```
     
+    pip install discord.py
+ 
     pip install colorama
     
    
