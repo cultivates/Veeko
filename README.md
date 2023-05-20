@@ -2,12 +2,8 @@
 Vekko Tool 
 ----------
 
-
-
-
-  pip install colorama 
-----------------------------
-
-  pip install discord.py
-----------------------------
-          
+    pip install discord.py
+    
+    pip install colorama
+    
+   
